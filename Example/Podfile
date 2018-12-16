@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVUIViewExtensions_Tests' do
+  pod 'JVUIViewExtensions', :path => '../'
+  
+  
+end
