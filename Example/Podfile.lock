@@ -1,0 +1,16 @@
+PODS:
+  - JVUIViewExtensions (0.1.0)
+
+DEPENDENCIES:
+  - JVUIViewExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  JVUIViewExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVUIViewExtensions: 3b1408481d2009471e091ad38c9e2b3598c3151d
+
+PODFILE CHECKSUM: 7351b70b90c18b945d72842cb16fc6b2f89a9554
+
+COCOAPODS: 1.6.0.beta.1

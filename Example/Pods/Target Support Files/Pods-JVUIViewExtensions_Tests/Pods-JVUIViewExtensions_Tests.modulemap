@@ -1,0 +1,6 @@
+framework module Pods_JVUIViewExtensions_Tests {
+  umbrella header "Pods-JVUIViewExtensions_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
